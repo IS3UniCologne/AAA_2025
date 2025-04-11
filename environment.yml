@@ -1,0 +1,20 @@
+name: AAA
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - pip
+  - ipython
+  - jupyter
+  - jupyterlab
+  - pandas
+  - requests
+  - numpy
+  - matplotlib
+  - seaborn
+  - scipy
+  - scikit-learn
+  - pip:
+    - torch
+    - keras
