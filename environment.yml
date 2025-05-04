@@ -9,6 +9,10 @@ dependencies:
   - jupyter
   - jupyterlab
   - pandas
+  - geopandas
+  - geodatasets
+  - contextily
+  - h3-py
   - requests
   - numpy
   - matplotlib
