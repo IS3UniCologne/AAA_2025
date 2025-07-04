@@ -24,3 +24,5 @@ dependencies:
     - torch
     - keras
     - simpy
+    - gymnasium[classic-control]
+    - stable-baselines3
