@@ -19,10 +19,12 @@ dependencies:
   - seaborn
   - scipy
   - scikit-learn
+  - swig
   - pip:
     - drawdata
     - torch
     - keras
     - simpy
     - gymnasium[classic-control]
+    - gymnasium[box2d]
     - stable-baselines3
